@@ -1,9 +1,25 @@
 streamlit
+
+# LangChain ecosystem
 langchain
 langchain-community
 langchain-huggingface
+
+# LLM (Google Gemini)
 google-generativeai
+
+# Vector DB
 faiss-cpu
+
+# Environment variables
 python-dotenv
+
+# PDF loader
 pypdf
+
+# Embeddings
 sentence-transformers
+
+# 🔥 REQUIRED FIX (your error)
+torch
+torchvision
